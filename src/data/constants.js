@@ -14,7 +14,7 @@ export const Bio = {
     linkedin: "https://www.linkedin.com/in/deepakreddy16/",
     twitter: "https://twitter.com/Dpk_Rdy",
     insta: "https://www.instagram.com/d.e.e.p.a.k.0.3/",
-    // facebook: "https://www.facebook.com/rishav.chanda.165/",
+
   };
   
   export const skills = [
@@ -166,11 +166,11 @@ export const Bio = {
           image:
             "https://firebasestorage.googleapis.com/v0/b/portfolio-e5fe6.appspot.com/o/icons%2Fpostmanicon.jpg?alt=media&token=1c469c76-929a-4085-bcf6-08a5111f96d7",
         },
-        {
-          name: "Adobe XD",
-          image:
-            "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
-        },
+        // {
+        //   name: "Adobe XD",
+        //   image:
+        //     "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
+        // },
         {
           name: "Figma",
           image:
