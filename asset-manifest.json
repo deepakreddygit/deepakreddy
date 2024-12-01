@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/deepakreddygit.github.io/deepakreddy/static/css/main.bf538fe7.css",
+    "main.js": "/deepakreddygit.github.io/deepakreddy/static/js/main.bfa4a9db.js",
+    "static/media/HeroImage.jpg": "/deepakreddygit.github.io/deepakreddy/static/media/HeroImage.62a290fd2131744f1dae.jpg",
+    "index.html": "/deepakreddygit.github.io/deepakreddy/index.html",
+    "main.bf538fe7.css.map": "/deepakreddygit.github.io/deepakreddy/static/css/main.bf538fe7.css.map",
+    "main.bfa4a9db.js.map": "/deepakreddygit.github.io/deepakreddy/static/js/main.bfa4a9db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.bfa4a9db.js"
+  ]
+}
