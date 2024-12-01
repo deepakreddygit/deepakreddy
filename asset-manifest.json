@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/deepakreddygit.github.io/deepakreddy/static/css/main.bf538fe7.css",
-    "main.js": "/deepakreddygit.github.io/deepakreddy/static/js/main.bfa4a9db.js",
-    "static/media/HeroImage.jpg": "/deepakreddygit.github.io/deepakreddy/static/media/HeroImage.62a290fd2131744f1dae.jpg",
-    "index.html": "/deepakreddygit.github.io/deepakreddy/index.html",
-    "main.bf538fe7.css.map": "/deepakreddygit.github.io/deepakreddy/static/css/main.bf538fe7.css.map",
-    "main.bfa4a9db.js.map": "/deepakreddygit.github.io/deepakreddy/static/js/main.bfa4a9db.js.map"
+    "main.css": "/deepakreddy/static/css/main.bf538fe7.css",
+    "main.js": "/deepakreddy/static/js/main.1564e0e4.js",
+    "static/media/HeroImage.jpg": "/deepakreddy/static/media/HeroImage.62a290fd2131744f1dae.jpg",
+    "index.html": "/deepakreddy/index.html",
+    "main.bf538fe7.css.map": "/deepakreddy/static/css/main.bf538fe7.css.map",
+    "main.1564e0e4.js.map": "/deepakreddy/static/js/main.1564e0e4.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.bfa4a9db.js"
+    "static/js/main.1564e0e4.js"
   ]
 }
