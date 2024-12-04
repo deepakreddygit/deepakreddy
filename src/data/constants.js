@@ -197,7 +197,7 @@ export const Bio = {
         "CSS",
         "JavaScript",
       ],
-      doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
+      doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-e5fe6.appspot.com/o/EXPERIENCE%2FScreenshot%202024-12-04%20at%2012.14.21%E2%80%AFPM.png?alt=media&token=838e5d92-aa92-42b1-ac9f-1bdd02b376c9",
     },
     // {
     //   id: 1,
