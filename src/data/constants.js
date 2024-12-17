@@ -10,7 +10,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/deepakreddygit",
     resume:
-      "https://drive.google.com/file/d/13Iy9z-roeCYPMQYyMVkUiTiSujBgnIXG/view?usp=drive_link",
+      "https://drive.google.com/file/d/1Qh3bngGvknkwUELXJcnIP2m4Uk-L2A8b/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/deepakreddy16/",
     twitter: "https://twitter.com/Dpk_Rdy",
     insta: "https://www.instagram.com/d.e.e.p.a.k.0.3/",
@@ -289,7 +289,7 @@ export const Bio = {
       img: "https://firebasestorage.googleapis.com/v0/b/portfolio-e5fe6.appspot.com/o/EDUCATION%2FKSU.jpg?alt=media&token=ae7fad55-6b73-4317-b629-e7b74ea8756c",
       school: "Kent State University",
       date: "Spring 2024 - Present",
-      grade: "3.59/4.0",
+      grade: "3.95/4.0",
       desc: "I am currently pursuing my Master's degree in Computer Science at Kent State University. My coursework includes advanced topics in machine learning, data science, and software engineering.",
       degree: "Master of Science - MS, Computer Science",
     },
