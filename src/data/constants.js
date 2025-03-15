@@ -10,7 +10,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/deepakreddygit",
     resume:
-      "https://drive.google.com/file/d/1mcRCVU64A1v8BHjtwEvwJU-Ofg3EeaqD/view?usp=sharing",
+      "https://drive.google.com/file/d/1KONXUBpT8lJmNjX-i_caHYsdsH8IJ00j/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/deepakreddy16/",
     twitter: "https://twitter.com/Dpk_Rdy",
     insta: "https://www.instagram.com/d.e.e.p.a.k.0.3/",
