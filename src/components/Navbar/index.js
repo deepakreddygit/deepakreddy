@@ -31,6 +31,7 @@ const Navbar = () => {
         </NavItems>
         <ButtonContainer>
           <GitHubButton href={Bio.github} target="_blank">Github Profile</GitHubButton>
+          <GitHubButton href={Bio.leetcode} target="_blank" style={{ marginLeft: "10px" }}>LeetCode</GitHubButton>
         </ButtonContainer>
         {
           isOpen &&

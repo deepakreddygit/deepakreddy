@@ -14,7 +14,8 @@ export const Bio = {
     linkedin: "https://www.linkedin.com/in/deepakreddy16/",
     twitter: "https://twitter.com/Dpk_Rdy",
     insta: "https://www.instagram.com/d.e.e.p.a.k.0.3/",
-    medium: "https://medium.com/@deepakreddy1635"
+    medium: "https://medium.com/@deepakreddy1635",
+    leetcode: "https://leetcode.com/u/SSDeepakReddy/"
 
   };
   
