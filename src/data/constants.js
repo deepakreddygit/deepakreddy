@@ -188,6 +188,25 @@ export const Bio = {
   
   export const experiences = [
     {
+      id: 1,
+      img: "https://firebasestorage.googleapis.com/v0/b/portfolio-e5fe6.appspot.com/o/EDUCATION%2FKSU.jpg?alt=media&token=ae7fad55-6b73-4317-b629-e7b74ea8756c",
+      role: "Teaching Assistant",
+      company: "Kent State University",
+      date: "Jan 2025 - Present",
+      desc: "Serving as a Teaching Assistant for Database and Human-Computer Interaction courses. Responsibilities include conducting lab sessions, assisting students with coursework, clarifying concepts, invigilating exams, grading assignments, and providing academic support to enhance student learning outcomes.",
+      skills: [
+        "Database Systems",
+        "SQL",
+        "MongoDB",
+        "Human-Computer Interaction",
+        "UI/UX Principles",
+        "Teaching & Mentoring",
+        "Grading & Evaluation",
+        "Classroom Management"
+      ],
+      doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-e5fe6.appspot.com/o/EXPERIENCE%2FTAoffer.png?alt=media&token=e3a225f6-c91a-470b-bbc1-59c5737d6a0f",
+    },
+    {
       id: 0,
       img: "https://firebasestorage.googleapis.com/v0/b/portfolio-e5fe6.appspot.com/o/EXPERIENCE%2Feficens.png?alt=media&token=172ec9e1-3937-4a66-900b-4511ab0e82c5",
       role: "Frontend Developer Intern",
@@ -205,24 +224,7 @@ export const Bio = {
       ],
       doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-e5fe6.appspot.com/o/EXPERIENCE%2FScreenshot%202024-12-04%20at%2012.14.21%E2%80%AFPM.png?alt=media&token=838e5d92-aa92-42b1-ac9f-1bdd02b376c9",
     },
-    // {
-    //   id: 1,
-    //   img: "https://firebasestorage.googleapis.com/v0/b/portfolio-e5fe6.appspot.com/o/EXPERIENCE%2Feficens.png?alt=media&token=172ec9e1-3937-4a66-900b-4511ab0e82c5",
-    //   role: "Frontend Developer Intern",
-    //   company: "Eficens Software Services Private Limited",
-    //   date: "March 2022 - May 2023",
-    //   desc: "Worked on the frontend of the web application using Angular 14, Redux, and Material UI.",
-    //   skills: [
-    //     "Angular 14",
-    //     "Redux",
-    //     "NodeJs",
-    //     "Angular Material UI",
-    //     "HTML",
-    //     "CSS",
-    //     "JavaScript",
-    //   ],
-    //   doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
-    // },
+    
     // {
     //   id: 2,
     //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
@@ -348,7 +350,7 @@ export const Bio = {
         "Media Explorer"
       ],
       category: "web app",
-      github: "https://github.com/deepakreddygit", // replace with repo if public
+      github: "https://github.com/deepakreddygit", 
       webapp: "https://theresumebuilderapp.netlify.app/",
       member: [
         {
@@ -389,7 +391,7 @@ export const Bio = {
         "Data Visualization"
       ],
       category: "machine learning",
-      github: "https://github.com/deepakreddygit", // replace with actual repo if public
+      github: "https://github.com/deepakreddygit", 
       webapp: "https://quickinsights-data.netlify.app/",
       member: [
         {
