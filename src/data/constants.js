@@ -329,6 +329,78 @@ export const Bio = {
   
   
   export const projects = [
+     //capstone project
+     {
+      id: 11,
+      title: "Resume Builder App",
+      date: "Jan 2025",
+      description:
+        "A full-stack resume builder web application built as our Capstone Project. It allows users to create and manage resumes with customizable templates, a progress tracker, and the ability to store previously entered data. The platform supports media uploads, user reviews on templates, and provides a seamless resume-building experience.",
+      image:
+        "https://firebasestorage.googleapis.com/v0/b/portfolio-e5fe6.appspot.com/o/PROJECTS%2Fresumebuilder.png?alt=media&token=9776bd29-08c3-4832-a7e8-036418006a31",
+      tags: [
+        "React.js",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "Flask",
+        "MongoDB Atlas",
+        "Media Explorer"
+      ],
+      category: "web app",
+      github: "https://github.com/deepakreddygit", // replace with repo if public
+      webapp: "https://theresumebuilderapp.netlify.app/",
+      member: [
+        {
+          name: "Deepak Reddy",
+          img: "https://avatars.githubusercontent.com/u/84923397?s=400&u=9bb949ab3893058e5a0642b9c847030857bb5bee&v=4",
+          linkedin: "https://www.linkedin.com/in/deepakreddy16/",
+          github: "https://github.com/deepakreddygit",
+        },
+        {
+          name: "Meenakshi Menchu",
+          img: "https://firebasestorage.googleapis.com/v0/b/portfolio-e5fe6.appspot.com/o/user%2Fuser.jpg?alt=media&token=faa32443-08fc-4b41-b6e7-4ed944f610f9",
+          linkedin: "https://www.linkedin.com/in/meenakshi-menchu-a91527227/",
+          github: "https://github.com/meenakshimenchu"
+        },
+        {
+          name: "Siva Macharla Vimjam",
+          img: "https://firebasestorage.googleapis.com/v0/b/portfolio-e5fe6.appspot.com/o/user%2Fuser.jpg?alt=media&token=faa32443-08fc-4b41-b6e7-4ed944f610f9",
+          linkedin: "https://www.linkedin.com/in/siva-macharla-vimjam-27a123231/",
+          github: "https://github.com/sivamacharla"
+        },
+      ],
+    },
+    {
+      id: 12,
+      title: "QuickInsights",
+      date: "Aug 2024",
+      description:
+        "QuickInsights is a data exploration and analysis copilot that allows users to securely upload datasets (CSV/Excel) and interact with them through an intuitive dashboard. It provides instant visualizations, insights, and summaries powered by AI/LLMs. Built with React for the frontend and Flask for the backend, the platform supports authentication, data storage, and smooth interaction workflows.",
+      image:
+        "https://firebasestorage.googleapis.com/v0/b/portfolio-e5fe6.appspot.com/o/PROJECTS%2Fcopilot.png?alt=media&token=fab509b5-1ba9-49ab-b64b-928ed071e5b7",
+      tags: [
+        "React.js",
+        "TS",
+        "Flask",
+        "Python",
+        "MongoDB",
+        "LLM",
+        "Data Visualization"
+      ],
+      category: "machine learning",
+      github: "https://github.com/deepakreddygit", // replace with actual repo if public
+      webapp: "https://quickinsights-data.netlify.app/",
+      member: [
+        {
+          name: "Deepak Reddy",
+          img: "https://avatars.githubusercontent.com/u/84923397?s=400&u=9bb949ab3893058e5a0642b9c847030857bb5bee&v=4",
+          linkedin: "https://www.linkedin.com/in/deepakreddy16/",
+          github: "https://github.com/deepakreddygit",
+        },
+      ],
+    },
+    
     {
       id: 9,
       title: "CEGMA",
@@ -559,6 +631,8 @@ export const Bio = {
         },
       ],
     },
+   
+    
   ];
   
   export const TimeLineData = [
